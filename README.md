@@ -1,4 +1,4 @@
-Project Title: **Predicting Customer Churn Using Machine Learning**
+# **Predicting Customer Churn Using Machine Learning**
 
 
 **Project Overview:**
