@@ -1,7 +1,7 @@
 # Predicting Customer Churn Using Machine Learning
 
 
-##Project Overview 
+## Project Overview 
 This project aims to predict customer churn using structured customer data. The project will leverage various data science techniques including data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, machine learning modeling, hyperparameter tuning, and data visualization. The goal is to build a robust model that can help companies identify customers at high risk of churning, thereby enabling better customer retention strategies.
 
 
