@@ -9,7 +9,7 @@ This project aims to predict customer churn using structured customer data. The 
 We will use the "Telco Customer Churn" dataset available on Kaggle. This dataset provides information about a telecommunication company's customers, including demographic details and services subscribed.
 
 ### Dataset link: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
-
+ 
 ### Components of the Project:
 Data Collection and Cleaning:
 Clean and preprocess the data, handle missing values, and remove any inconsistencies.
